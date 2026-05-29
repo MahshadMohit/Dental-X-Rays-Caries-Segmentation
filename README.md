@@ -32,9 +32,3 @@ Below is an example of the input X-ray showing a three-panel layout and the corr
 | <img width="1126" height="262" alt="100_1" src="https://github.com/user-attachments/assets/6db879c5-9fc2-4d91-9ee2-6fc72604ee6b" /> | <img width="1126" height="262" alt="100_1_mask" src="https://github.com/user-attachments/assets/d7333bd7-17d5-40f6-8ccf-b684a6eeb92e" /> |
 
 
-
-### Usage
-To run the automated batch inference on your local directory or Google Colab, execute the following script:
-
-# Run the batch processing script
-# The output masks will be saved automatically in the designated directory
